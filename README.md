@@ -25,4 +25,4 @@ sh int | i error
 sh int | b 344 CRC
 show interfaces counters errors 
 show cpu
-```bash
+```
